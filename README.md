@@ -17,7 +17,7 @@
 
 - Games I play: CS:GO - HvH 🎯
 
-- I was born in Slovakia🇸🇰
+- I was born in Slovakia 🇸🇰
 
 ## Other info
 - I've developed [API](https://github.com/ParrotDevelopers/Parrot-TV-API/) for[PlayerJS](https://playerjs.com) sooo you can add it to your website u can read full info about it [here](https://github.com/ParrotDevelopers/Parrot-TV-API/)
