@@ -10,9 +10,7 @@
 
 - All my projects are GNU GPL v3 Licensed so you can edit them and contribute to them 🆓
 
-- Primary OS - Kali Linux 💻
-- Secondary OS - Manjaro 💻
-- Tertiary OS - Windows 10 - Chrrently only using for gaming 🎮
+- OS - POP OS
 
 - Games I play: CS:GO - HvH 🎯
 
