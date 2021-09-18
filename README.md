@@ -11,7 +11,7 @@
 - All my projects are GNU GPL v3 Licensed so you can edit them and contribute to them
 
 - OS - Windows Ghost Spectre for gaming
-- OS - Kali Linux for other things
+- OS - Manjaro for other things
 
 - Games I play: CS:GO - HvH
 
