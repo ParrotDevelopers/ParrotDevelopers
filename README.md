@@ -1,25 +1,25 @@
 # Parrot Developers
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
-## Main Info
+## About
 
-- Other nick: @HereIronman7746
 
-- I started html, css and JavaScript development when i was under 15
+- 💼 &nbsp; I self-taught my self to code.
+- ✍️ &nbsp; Watching Movies.
+- 💻&nbsp; OS - Manjaro Linux
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Windows Ghost Spectre
 
-- I don't work for any company and i don't want to, cuz i take coding as relaxing
+## Tech Stack
 
-- All my projects are GNU GPL v3 Licensed so you can edit them and contribute to them
+- 💻 &nbsp; Python 
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap  | Jquery
+- 🔧 &nbsp; Visual Studio code | Git | Sublime Text | Vim | Nano
 
-- OS - Windows Ghost Spectre for gaming
-- OS - Manjaro for other things
+## Stats
 
-- Games I play: CS:GO - HvH
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ParrotDevelopers&show_icons=true&theme=radical)
 
-- I was born in Slovakia
+## Languages
 
-## Other info
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParrotDevelopers&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-- Source code of  [Parrot TV Kodi](https://github.com/ParrotDevelopers/Parrot-TV-Kodi/) was made from a free source online
-
-## Me RN
-![Me RN](https://i.ibb.co/jynMkLB/tenor.gif "Me RN")
