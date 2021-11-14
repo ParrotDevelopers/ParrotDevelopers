@@ -5,7 +5,7 @@
 
 - 💼 &nbsp; I self-taught my self to code.
 - ✍️ &nbsp; Watching Movies.
-- 💻&nbsp; OS - Manjaro Linux, Windows Ghost Spectre
+- 💻&nbsp; OS - Arch Linux, Windows Ghost Spectre
 
 ## Tech Stack
 
