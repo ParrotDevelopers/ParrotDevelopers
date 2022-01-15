@@ -4,7 +4,7 @@
 
 
 - 💼 &nbsp; I self-taught my self to code.
-- ✍️ &nbsp; Watching Movies.
+- 👍 &nbsp; Watching Movies.
 
 ## Tech Stack
 
