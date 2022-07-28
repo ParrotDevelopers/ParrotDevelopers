@@ -8,7 +8,7 @@
 
 ## Tech Stack
 
-- 💻 &nbsp; Python | C | C++
+- 💻 &nbsp; Python | C
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap  | Jquery | PHP
 - 🔧 &nbsp; Visual Studio code | Git | Sublime Text | Vim | Nano
 
